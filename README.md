@@ -1,5 +1,5 @@
 # bashy
-
+MY NAME IS AZIM
 NOTE **Bashy is incompatible with zsh**
 
 On new Macs running Big Sur, Monterey, or Ventura, change your shell from default `zsh` to `bash`:
